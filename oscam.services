@@ -1,0 +1,69 @@
+[um-hd-option]
+caid                          = 1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = A85D,B02D,B417,69E7,7980,DB28,7D67,9CA7,AC4A,8151,C79E,7D66,7D69,D73E,D356,CF6E,814E,7D6A,D73F,D357,CF6F,7D68,4E96,8150,9CA6,C3B5,814F,C79D,2B94,AC4D
+
+[um-bonus]
+caid                          = 1831,1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = A85F,42E0,E302,E300,E301,AC9A,E6E1
+
+[um-zuordnung-fehlt]
+caid                          = 1831,1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = 3733,E6E3
+
+[vodafone-premium]
+caid                          = 1831,1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = 372F,6219,3719,3B07,3B16,B033,5A50,A092,3333,75A4,7D6C,A475,46C8,94D5,372B,797F,E6E4,94D7,3335,9CA5,E6E6,621B,3B0C,42DA,5670,69EA,332E,E2F6,3B10,94D6,371F,5274,98C3,DB2B,2B92,007C,007F,0065,B035
+
+[vodafone-premium-plus]
+caid                          = 1831,1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = 6210,DB27,E2F5,8153,371E,B030,3731,3338,98BD,3B04,E6E7,A861,B415,3339,7D6B,E2FD,9CA9,6217,9CA8
+
+[vodafone-dazn-channels]
+caid                          = 1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = AC4F,B034
+
+[um-digitaltv-international]
+caid                          = 1831,1854,1850,1838,1868,098E
+provid                        = 000000,000401,001103
+srvid                         = E6DD,C3B7,C3B8,C3BE,C3BF,623F,6241,E6DD,E6DE,C3B6,C3C0,3B12,3B11,3B0E,E2FF,3B0F,3B14,42E5,42E4,565B,AC98,42E3,565C,565A,AC99,E6DD,E6DF,E6E0,E6E2,C3B9,C3BA,C3BB,C3BC,C3BD,5657,A47B,5A46,98C4,5660,5A42,6242,5A45,5A44,5656,E6DD,E6DE,E6E0,E6E5,C3C0,5A3E,5A43,5A47,E2FE,5A41,5A40,AC9B,5658,6213,565D,5A3D
+
+[um-sky-starter-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 0085,0082,007C,0016,0070,0076,0206,000E,000D,0010,0017,000F,0093,006C,0034,007E,001D,007B,0065
+
+[um-sky-entertainment-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 006E
+
+[um-sky-cinema-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 0074,006B,0204,0197,0008,002B,0083,006F,000B,0195
+
+[um-sky-kids-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 001C,0013,008A
+
+[um-sky-sport-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 010E,0118,0122,012C,0136,0140,014A,0154,0104,0081,0152,0102,0072,010C,0116,0120,012A,0134,013E,0148,0011,006C
+
+[um-sky-bundesliga-paket]
+caid                          = 1868,1850,1854,1838,1831,098E
+provid                        = 
+srvid                         = 0069,0101,010B,0115,011F,0129,0133,013D,0147,0151
+
+[um-sky-sport-uhd]
+caid                          = 1850,098E
+provid                        = 
+srvid                         = 0228,0229
