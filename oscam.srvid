@@ -1,186 +1,95 @@
 ##HD-Option##
 
-1854,1850,1838,1868,098E:A85D|UM|CNN International HD|TV|HD-Option
-1854,1850,1838,1868,098E:B02D|UM|Comedy Central HD|TV|HD-Option
-1854,1850,1838,1868,098E:B417|UM|Deluxe Music HD|TV|HD-Option
-1850,1854,1838,1868,098E:69E7|UM|Disney HD|TV|HD-Option
-1854,1850,1838,1868,098E:7980|UM|DMAX HD|TV|HD-Option
-1854,1850,1838,1868,098E:DB28|UM|EUROSPORT 1 HD|TV|HD-Option
-1854,1850,1838,1868,098E:2B94|UM|Home & Garden TV HD|TV|HD-Option
-1854,1850,1838,1868,098E:7D67|UM|kabel eins HD|TV|HD-Option
-1854,1850,1838,1868,098E:9CA7|UM|MTV HD|TV|HD-Option
-1854,1850,1838,1868,098E:AC4A|UM|Nick HD|TV|HD-Option
-1854,1850,1838,1868,098E:8151|UM|Nitro HD|TV|HD-Option
-1854,1850,1838,1868,098E:C79E|UM|ntv HD|TV|HD-Option
-1854,1850,1838,1868,098E:7D66|UM|ProSieben HD|TV|HD-Option
-1854,1850,1838,1868,098E:7D69|UM|ProSieben MAXX HD|TV|HD-Option
-1854,1850,1838,1868,098E:D73E|UM|RTL HD BW|TV|HD-Option
-1854,1850,1838,1868,098E:D356|UM|RTL HD HS|TV|HD-Option
-1854,1850,1838,1868,098E:CF6E|UM|RTL HD NRW|TV|HD-Option
-1854,1850,1838,1868,098E:AC4D|UM|RTLup HD|TV|HD-Option
-1854,1850,1838,1868,098E:814E|UM|RTLZWEI HD|TV|HD-Option
-1854,1850,1838,1868,098E:7D6A|UM|Sat.1 GOLD HD|TV|HD-Option
-1854,1850,1838,1868,098E:D73F|UM|Sat.1 HD BW|TV|HD-Option
-1854,1850,1838,1868,098E:D357|UM|Sat.1 HD HS|TV|HD-Option
-1854,1850,1838,1868,098E:CF6F|UM|Sat.1 HD NRW|TV|HD-Option
-1854,1850,1838,1868,098E:7D68|UM|sixx HD|TV|HD-Option
-1854,1850,1838,1868,098E:4E96|UM|Sport1 HD|TV|HD-Option
-1854,1850,1838,1868,098E:8150|UM|Super RTL HD|TV|HD-Option
-1854,1850,1838,1868,098E:9CA6|UM|Tele 5 HD|TV|HD-Option
-1854,1850,1838,1868,098E:C3B5|UM|TLC HD|TV|HD-Option
-1854,1850,1838,1868,098E:814F|UM|VOX HD|TV|HD-Option
-1854,1850,1838,1868,098E:C79D|UM|WELT HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C37D|Digital Free|CNN HD (eng)|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C382|Digital Free|Comedy Central HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C39C|Digital Free|DELUXE MUSIC HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C36F|Digital Free|Disney Ch. HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C375|Digital Free|DMAX HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C3A2|Digital Free|Eurosport 1 HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C359|Digital Free|kabel eins HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C378|Digital Free|MTV HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C385|Digital Free|Nickelodeon HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C36D|Digital Free|NITRO HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C38B|Digital Free|ntv HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C35F|Digital Free|ProSieben HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C37E|Digital Free|ProSieben MAXX HD|TV|HD-Option
+:||RTL HD BW|TV|HD-Option
+:||RTL HD HS|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C35C|Digital Free|RTL HD NRW|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C35B|Digital Free|RTLZWEI HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C39A|Digital Free|SAT.1 Gold HD|TV|HD-Option
+:||Sat.1 HD BW|TV|HD-Option
+:||Sat.1 HD HS|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C362|Digital Free|SAT.1 HD NRW|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C363|Digital Free|sixx HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C35A|Digital Free|SPORT1 HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C36C|Digital Free|SUPER RTL HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C37B|Digital Free|TELE 5 HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C35D|Digital Free|VOX HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C372|Digital Free|WELT HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C392|KD Home|HOME & GARDEN TV HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C3A6|KD Home|Kabel eins Doku HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C396|KD Home|RTLup HD|TV|HD-Option
+098E,1838,1845,1850,1854,1868:C394|KD Home|TLC HD|TV|HD-Option
 
-##Bonus##
+##Internationale Sender##
 
-1831,1854,1850,1838,1868,098E:A85F|UM|Al Jazeera|TV|Bonus
-1831,1850,098E,1838,1868:3733|UM|BabyTV|TV|Bonus
-1831,1854,1850,1838,1868,098E:42E0|UM|BVN|TV|Bonus
-1831,1854,1850,1838,1868,098E:E6E1|UM|Fashion TV|TV|Bonus
-1831,1854,1850,1838,1868,098E:E302|UM|Ginx TV|TV|Bonus
-1831,1854,1850,1838,1868,098E:E301|UM|Pro TV International|TV|Bonus
-1831,1854,1850,1838,1868,098E:E300|UM|Ukraina 24|TV|Bonus
+098E,1831,1838,1845,1850,1854,1868:D04D|Digital Free|1+1 International|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C757|Digital Free|AlJaz Balkan/AlJaz (bos/ara)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C75C|Digital Free|Arirang/Fashion TV (eng/spa)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:D046|Digital Free|BVN (dut)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C75F|Digital Free|Duna TV (hun)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C759|Digital Free|France24 (fre/eng)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:D03B|Digital Free|GINX TV (eng)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C75A|Digital Free|PCNE/ NTD TV (chi)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:D03A|Digital Free|Pro TV/TVR (rum)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:C75E|Digital Free|Tunisie 1 (ara)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:D036|Digital Free|Visjon Norge (nor)|TV|Internationale Sender
+098E,1831,1838,1845,1850,1854,1868:D055|KD Home|Halk TV / Kanal Avrupa (tur)|TV|Internationale Sender
 
 ##Vodafone Premium##
 
-1854,1850,1838,1868,098E:6219|UM|13th Street HD|TV|Vodafone Premium
-1831,1854,1850,1838,1868,098E:3719|UM|Boomerang|TV|Vodafone Premium
-1831,1854,1850,1838,1868,098E:3B07|UM|Cartoon Network|TV|Vodafone Premium
-1831,1854,1850,1838,1868,098E:E6E6|UM|Curiosity Channel|TV|Vodafone Premium
-1854,1850,1838,1868,098E:621B|UM|Curiosity Channel HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:A092|UM|Geo TV HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:75A4|UM|Kinowelt TV HD|TV|Vodafone Premium
-1850,1854,1838,1868,098E:7D6C|UM|NatGeo HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:A475|UM|National Geographic Wild HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:94D5|UM|ProSieben FUN HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:797F|UM|Romance TV HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:94D7|UM|RTL Crime HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:B035|UM|Sky One HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:9CA5|UM|Sony AXN HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:42DA|UM|Sport1+ HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:69EA|UM|SyFy HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:E2F6|UM|The HISTORY Channel HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:2B92|UM|UNIVERSAL TV HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:94D6|UM|Warner TV Comedy HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:5274|UM|Warner TV Film HD|TV|Vodafone Premium
-1854,1850,1838,1868,098E:DB2B|UM|Warner TV Serie HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C354|KD Home|13th Street HD (VF)|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C367|KD Home|AXN Black HD|TV|Vodafone Premium
+098E,1831,1838,1845,1850,1854,1868:C617|KD Home|Cartoon Network|TV|Vodafone Premium
+098E,1831,1838,1845,1850,1854,1868:D09C|KD Home|Cartoonito|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C39F|KD Home|GEO TV HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C368|KD Home|KinoweltTV HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C356|KD Home|NatGeo HD (VF)|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C370|KD Home|NatGeo Wild HD (VF)|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C389|KD Home|ProSieben FUN HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C364|KD Home|Romance TV HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C3A4|KD Home|RTL Crime HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C350|KD Home|Sky One HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C366|KD Home|Spiegel Geschichte HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C355|KD Home|SPORT1+ HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C358|KD Home|SYFY HD (VF)|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C371|KD Home|The HISTORY Channel HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C373|KD Home|UNIVERSAL TV HD (VF)|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C361|KD Home|Warner TV Comedy HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C352|KD Home|Warner TV Film HD|TV|Vodafone Premium
+098E,1838,1845,1850,1854,1868:C351|KD Home|Warner TV Serie HD (VF)|TV|Vodafone Premium
 
 ##Vodafone Premium Plus##
 
-1854,1850,1838,1868,098E:DB27|UM|Crime&Investigation HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:E2F5|UM|Discovery Channel HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:8153|UM|eSPORTS1 HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:B030|UM|EUROSPORT 2 HD|TV|Vodafone Premium Plus
-1831,1854,1850,1838,1868,098E:3731|UM|Fix&Foxi|TV|Vodafone Premium Plus
-1831,1854,1850,1838,1868,098E:3338|UM|kabel eins classics|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:98BD|UM|kabel eins classics HD|TV|Vodafone Premium Plus
-1831,1854,1850,1838,1868,098E:3B04|UM|Lust Pur|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:2F54|UM|Nick Jr. HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:B415|UM|RTL Living HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:7D6B|UM|Sat.1 Emotions HD|TV|Vodafone Premium Plus
-1831,1854,1850,1838,1868,098E:E2FD|UM|Silverline Movie Channel|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:9CA9|UM|SONY CHANNEL HD|TV|Vodafone Premium Plus
-1854,1850,1838,1868,098E:9CA8|UM|SPORTDIGITAL FUSSBALL HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C36E|KD Home|AXN White HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C38C|KD Home|C+I HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C398|KD Home|Discovery Channel HD (VF)|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:CF16|KD Home|eSports1 HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C3A5|KD Home|Eurosport 2 HD|TV|Vodafone Premium Plus
+098E,1831,1838,1845,1850,1854,1868:C3CB|KD Home|Fix & Foxi|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C388|KD Home|kabel eins CLASSICS HD|TV|Vodafone Premium Plus
+098E,1831,1838,1845,1850,1854,1868:C613|KD Home|LUST PUR|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C381|KD Home|Nick Jr. HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C3A0|KD Home|RTL Living HD|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C38A|KD Home|SAT.1 emotions HD|TV|Vodafone Premium Plus
+098E,1831,1838,1845,1850,1854,1868:C481|KD Home|Silverline|TV|Vodafone Premium Plus
+098E,1838,1845,1850,1854,1868:C386|KD Home|SPORTDIGITAL FUSSBALL HD|TV|Vodafone Premium Plus
 
 ##DAZN Channels##
 
-1854,1850,1838,1868,098E:AC4F|UM|DAZN 1|TV|DAZN Channels
-1854,1850,1838,1868,098E:B034|UM|DAZN 2|TV|DAZN Channels
-
-##DigitalTV Albanisch##
-
-1831,1854,1850,1838,1868,098E:|UM|Balkanika Music Television|TV|DigitalTV Albanisch
-1831,1854,1850,1838,1868,098E:C3B7|UM|Klan Kosova|TV|DigitalTV Albanisch
-1831,1854,1850,1838,1868,098E:C3B8|UM|Kohavision TV|TV|DigitalTV Albanisch
-1831,1854,1850,1838,1868,098E:C3BE|UM|RTK1|TV|DigitalTV Albanisch
-1831,1854,1850,1838,1868,098E:C3BF|UM|RTV21|TV|DigitalTV Albanisch
-
-##DigitalTV Arabisch##
-
-1831,1854,1850,1838,1868,098E:623F|UM|Al Arabiya|TV|DigitalTV Arabisch
-1831,1854,1850,1838,1868,098E:6241|UM|MBC Maghreb al Arabia|TV|DigitalTV Arabisch
-
-##DigitalTV Bosnisch##
-
-1831,1854,1850,1838,1868,098E:E6DD|UM|Balkanika Music Television|TV|DigitalTV Bosnisch
-1831,1854,1850,1838,1868,098E:E6DE|UM|BN TV |TV|DigitalTV Bosnisch
-1831,1854,1850,1838,1868,098E:C3B6|UM|Hayat TV|TV|DigitalTV Bosnisch
-1831,1854,1850,1838,1868,098E:C3C0|UM|TV Crne Gore Sat|TV|DigitalTV Bosnisch
-
-##DigitalTV Französisch##
-
-1831,1854,1850,1838,1868,098E:3B12|UM|France 2|TV|DigitalTV Französisch
-1831,1854,1850,1838,1868,098E:3B11|UM|France 24 (en Francais)|TV|DigitalTV Französisch
-1831,1854,1850,1838,1868,098E:3B0E|UM|France 3|TV|DigitalTV Französisch
-1831,1854,1850,1838,1868,098E:E2FF|UM|France 4|TV|DigitalTV Französisch
-1831,1854,1850,1838,1868,098E:3B0F|UM|France 5|TV|DigitalTV Französisch
-
-##DigitalTV Griechisch##
-
-1831,1854,1850,1838,1868,098E:3B14|UM|Antenna TV (Ant 1)|TV|DigitalTV Griechisch
-1868,1831,1854,1850,1838,098E:42E5|UM|ERT World|TV|DigitalTV Griechisch
-
-##DigitalTV Italienisch##
-
-1831,1854,1850,1838,1868,098E:42E4|UM|Mediaset|TV|DigitalTV Italienisch
-1831,1854,1850,1838,1868,098E:565B|UM|Rai Due|TV|DigitalTV Italienisch
-1831,1854,1850,1838,1868,098E:AC98|UM|Rai News 24|TV|DigitalTV Italienisch
-1831,1854,1850,1838,1868,098E:42E3|UM|Rai Storia|TV|DigitalTV Italienisch
-1831,1854,1850,1838,1868,098E:565C|UM|Rai Tre|TV|DigitalTV Italienisch
-1831,1854,1850,1838,1868,098E:565A|UM|Rai Uno|TV|DigitalTV Italienisch
-
-##DigitalTV Japanisch##
-
-1831,1854,1850,1838,1868,098E:AC99|UM|JSTV|TV|DigitalTV Japanisch
-
-##DigitalTV Pink##
-
-1831,1854,1850,1838,1868,098E:C3B9|UM|Pink Extra|TV|DigitalTV Pink
-1831,1854,1850,1838,1868,098E:C3BA|UM|Pink Film|TV|DigitalTV Pink
-1831,1854,1850,1838,1868,098E:C3BB|UM|Pink Folk|TV|DigitalTV Pink
-1831,1854,1850,1838,1868,098E:C3BC|UM|Pink Music|TV|DigitalTV Pink
-1831,1854,1850,1838,1868,098E:C3BD|UM|Pink Plus|TV|DigitalTV Pink
-
-##DigitalTV Polnisch##
-
-1831,1854,1850,1838,1868,098E:5657|UM|iTVN|TV|DigitalTV Polnisch
-1831,1854,1850,1838,1868,098E:A47B|UM|iTVS|TV|DigitalTV Polnisch
-1831,1854,1850,1838,1868,098E:5A46|UM|TV Polonia|TV|DigitalTV Polnisch
-1831,1854,1850,1838,1868,098E:98C4|UM|TVN 24|TV|DigitalTV Polnisch
-
-##DigitalTV Russisch##
-
-1831,1854,1850,1838,1868,098E:5660|UM|Channel One Russia|TV|DigitalTV Russisch
-1831,1854,1850,1838,1868,098E:5A42|UM|Nasch Kinomir|TV|DigitalTV Russisch
-1831,1854,1850,1838,1868,098E:6242|UM|NTV Mir|TV|DigitalTV Russisch
-1831,1854,1850,1838,1868,098E:5A45|UM|OstWest|TV|DigitalTV Russisch
-1831,1854,1850,1838,1868,098E:5A44|UM|RTR Planeta|TV|DigitalTV Russisch
-1850,1831,1854,1838,1868,098E:5656|UM|Telebom / Tele Dom|TV|DigitalTV Russisch
-
-##DigitalTV Serbisch##
-
-1831,1854,1850,1838,1868,098E:E6DD|UM|Balkanika Music Television|TV|DigitalTV Serbisch
-1831,1854,1850,1838,1868,098E:E6DE|UM|BN TV |TV|DigitalTV Serbisch
-1831,1854,1850,1838,1868,098E:E6E0|UM|DM SAT|TV|DigitalTV Serbisch
-1831,1854,1850,1838,1868,098E:E6E5|UM|RTS Sat|TV|DigitalTV Serbisch
-1831,1854,1850,1838,1868,098E:C3C0|UM|TV Crne Gore Sat|TV|DigitalTV Serbisch
-
-##DigitalTV Spanisch/Portugiesisch##
-
-1831,1854,1850,1838,1868,098E:5A3E|UM|24Horas|TV|DigitalTV Spanisch/Portugiesisch
-1831,1854,1850,1838,1868,098E:5A43|UM|RTPi|TV|DigitalTV Spanisch/Portugiesisch
-1831,1854,1850,1838,1868,098E:5A47|UM|TVE Internacional|TV|DigitalTV Spanisch/Portugiesisch
-
-##DigitalTV Türkisch##
-
-1831,1854,1850,1838,1868,098E:E2FE|UM|ATV Avrupa|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:5A41|UM|Euro D|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:5A40|UM|EURO STAR|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:AC9B|UM|Habertürk|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:5658|UM|Kanal 7|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:6213|UM|Show Max|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:565D|UM|SHOW TURK|TV|DigitalTV Türkisch
-1831,1854,1850,1838,1868,098E:5A3D|UM|TV8|TV|DigitalTV Türkisch
+098E,1838,1845,1850,1854,1868:C3A9|KD Home|DAZN 1|TV|DAZN Channels
+098E,1838,1845,1850,1854,1868:C3AA|KD Home|DAZN 2|TV|DAZN Channels
 
 ### UM - Sky Starter Paket ###
 
@@ -189,21 +98,20 @@
 1868,1850,1854,1838,1831,098E:0082|Sky|Discovery HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:007C|Sky|Sky Replay HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:0016|Sky|Heimatkanal|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:0070|Sky|NatGeo HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:0076|Sky|National Geographic Wild HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:0206|Sky|Romance TV|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:000E|Sky|Sky Comedy HD|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0070|Sky|Sky Documentaries HD|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0034|Sky|Sky Documentaries NEU|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0076|Sky|Sky Nature HD|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0206|Sky|Romance TV HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:000D|Sky|Sky Crime HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:0010|Sky|Sky Documentaries HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:0017|Sky|Sky Krimi HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:000F|Sky|Sky Nature HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:0093|Sky|Sky One HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:006C|Sky|Sky Sport News HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:0034|Sky|Spiegel Geschichte|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:007E|Sky|Syfy HD|TV|Sky Starter Paket
-1868,1850,1854,1838,1831,098E:001D|Sky|Warner TV Comedy|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0088|Sky|Warner TV Comedy HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:007B|Sky|Warner TV Serie HD|TV|Sky Starter Paket
 1868,1850,1854,1838,1831,098E:0065|Sky|Universal TV HD|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:008E|Sky|Sky Showcase HD|TV|Sky Starter Paket
+1868,1850,1854,1838,1831,098E:0071|Sky|History HD|TV|Sky Starter Paket
 
 ### UM - Sky Entertainment Paket ###
 ### Außerdem enthalten sind alle Programme aus dem Sky Starter Paket. ###
@@ -214,9 +122,9 @@
 
 1868,1850,1854,1838,1831,098E:0074|Sky|Sky Cinema Action HD|TV|Sky Cinema Paket
 1868,1850,1854,1838,1831,098E:006B|Sky|Sky Cinema Best Of HD|TV|Sky Cinema Paket
-1868,1850,1854,1838,1831,098E:0204|Sky|Sky Cinema Classics|TV|Sky Cinema Paket
+1868,1850,1854,1838,1831,098E:0203|Sky|Sky Cinema Classics|TV|Sky Cinema Paket
 1868,1850,1854,1838,1831,098E:0197|Sky|Sky Cinema Family|TV|Sky Cinema Paket
-1868,1850,1854,1838,1831,098E:0008|Sky|Sky Cinema Fun|TV|Sky Cinema Paket
+1868,1850,1854,1838,1831,098E:0201|Sky|Sky Cinema Fun|TV|Sky Cinema Paket
 1868,1850,1854,1838,1831,098E:002B|Sky|Sky Cinema Premieren +24|TV|Sky Cinema Paket
 1868,1850,1854,1838,1831,098E:0083|Sky|Sky Cinema Premieren HD|TV|Sky Cinema Paket
 1868,1850,1854,1838,1831,098E:006F|Sky|Sky Cinema Special HD|TV|Sky Cinema Paket
@@ -225,102 +133,48 @@
 
 ### UM - Sky Kids Paket ###
 
-1868,1850,1854,1838,1831,098E:001C|Sky|Boomerang|TV|Sky Kids Paket
-1868,1850,1854,1838,1831,098E:0013|Sky|Junior|TV|Sky Kids Paket
+1868,1850,1854,1838,1831,098E:001C|Sky|Cartoonito|TV|Sky Kids Paket
 1868,1850,1854,1838,1831,098E:008A|Sky|Nick.Jr.|TV|Sky Kids Paket
 
 ### UM - Sky Sport Paket ###
 
-1868,1850,1854,1838,1831,098E:010E|Sky|Eurosport360 HD 1|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0118|Sky|Eurosport360 HD 2|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0122|Sky|Eurosport360 HD 3|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:012C|Sky|Eurosport360 HD 4|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0136|Sky|Eurosport360 HD 5|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0140|Sky|Eurosport360 HD 6|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:014A|Sky|Eurosport360 HD 7|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0154|Sky|Eurosport360 HD 8|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0104|Sky|Eurosport360 HD 9|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:010C|Sky|Sky Sport 1 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0116|Sky|Sky Sport 2 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0120|Sky|Sky Sport 3 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:012A|Sky|Sky Sport 4 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0134|Sky|Sky Sport 5 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:013E|Sky|Sky Sport 6 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0148|Sky|Sky Sport 7 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0152|Sky|Sky Sport 8 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0102|Sky|Sky Sport 9 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:010D|Sky|Sky Sport 10 HD|TV|Sky Sport Paket
 
-1868,1850,1854,1838,1831,098E:0081|Sky|Sky Sport 1 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0152|Sky|Sky Sport 10 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0102|Sky|Sky Sport 11 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0072|Sky|Sky Sport 2 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:010C|Sky|Sky Sport 3 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0116|Sky|Sky Sport 4 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0120|Sky|Sky Sport 5 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:012A|Sky|Sky Sport 6 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0134|Sky|Sky Sport 7 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:013E|Sky|Sky Sport 8 HD|TV|Sky Sport Paket
-1868,1850,1854,1838,1831,098E:0148|Sky|Sky Sport 9 HD|TV|Sky Sport Paket
 1868,1850,1854,1838,1831,098E:0011|Sky|Sky Sport F1 HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0091|Sky|Sky Premier League HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0090|Sky|Sky Sport Golf HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:008D|Sky|Sky Sport Mix HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0072|Sky|Sky Sport Tennis HD|TV|Sky Sport Paket
+1868,1850,1854,1838,1831,098E:0081|Sky|Sky Sport Top Event HD|TV|Sky Sport Paket
 
 1850,098E:0229|Sky|Sky Sport UHD|TV|Sky Sport Paket
 
-### UM - Sky Sport Bundesliga Paket ###
+### UM - Sky Fußball Bundesliga Paket ###
 
-1868,1850,1854,1838,1831,098E:0069|Sky|Sky Sport Bundesliga 1 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0101|Sky|Sky Sport Bundesliga 10 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:010B|Sky|Sky Sport Bundesliga 2 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0115|Sky|Sky Sport Bundesliga 3 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:011F|Sky|Sky Sport Bundesliga 4 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0129|Sky|Sky Sport Bundesliga 5 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0133|Sky|Sky Sport Bundesliga 6 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:013D|Sky|Sky Sport Bundesliga 7 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0147|Sky|Sky Sport Bundesliga 8 HD|TV|Sky Fußball Bundesliga Paket
-1868,1850,1854,1838,1831,098E:0151|Sky|Sky Sport Bundesliga 9 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0069|Sky|Sky Sport Bundesliga HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:010B|Sky|Sky Sport Bundesliga 1 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0115|Sky|Sky Sport Bundesliga 2 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:011F|Sky|Sky Sport Bundesliga 3 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0129|Sky|Sky Sport Bundesliga 4 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0133|Sky|Sky Sport Bundesliga 5 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:013D|Sky|Sky Sport Bundesliga 6 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0147|Sky|Sky Sport Bundesliga 7 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0151|Sky|Sky Sport Bundesliga 8 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:0101|Sky|Sky Sport Bundesliga 9 HD|TV|Sky Fußball Bundesliga Paket
+1868,1850,1854,1838,1831,098E:010F|Sky|Sky Sport Bundesliga 10 HD|TV|Sky Fußball Bundesliga Paket
 
 1850,098E:0228|Sky|Sky Sport Bundesliga UHD|TV|Sky Fußball Bundesliga Paket
 
 ### UM - Sky DAZN Channels ###
+
 1850,1854,1838,1868,098E:AC95|Sky|DAZN 1|TV|DAZN Channels
 1850,1854,1838,1868,098E:B07A|Sky|DAZN 2|TV|DAZN Channels
-
-##Stingray Music ###
-098E,1722,1831,1835,1838,1850:2B73|UM|2000er|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8D|UM|80er|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8E|UM|90er|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3348|UM|All Day Party|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B88|UM|Arabisch|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3345|UM|Bass Breaks & Beats|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334B|UM|Blues|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B80|UM|Bollywood Hits|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8F|UM|Chansons|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3346|UM|Chillout|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8A|UM|Classic Calm|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B90|UM|Classic Rock|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B86|UM|Cocktail Lounge|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B84|UM|Cool Jazz|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3344|UM|Dancefloor Fillers|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B76|UM|Drive|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B87|UM|Easy Listening Charts|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334A|UM|Groove (Disco & Funk)|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3342|UM|Headbangers|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7F|UM|Heavy Metal|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334D|UM|Hip Hop|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B74|UM|Hot Country|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334F|UM|Independent Classics|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B85|UM|Jazz Classics|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B75|UM|Kinder|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B71|UM|Klassik|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B72|UM|Klassik Sinfonie|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3349|UM|Kuschelsongs|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B82|UM|Latin|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B77|UM|New Age|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334C|UM|R'n'B & Soul Classic|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:334E|UM|Reggae|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B89|UM|Revival - 60er & 70er|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B78|UM|Rewind - 80er & 90er|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8B|UM|Rock 'n' Roll|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3341|UM|Rock Hymnen|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7C|UM|Schlager|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3347|UM|Sommer Hits|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3350|UM|Stingray Special|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:3343|UM|The Alternative|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7D|UM|Total Hits Deutschland|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B79|UM|Total Hits Frankreich|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7E|UM|Total Hits Italien|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B8C|UM|Total Hits Polen|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7A|UM|Total Hits Russland|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B81|UM|Turk Muzigi|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B7B|UM|Urban|Radio|Stingray Music
-098E,1722,1831,1835,1838,1850:2B83|UM|Volksmusik|Radio|Stingray Music
